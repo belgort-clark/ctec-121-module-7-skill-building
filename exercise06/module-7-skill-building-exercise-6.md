@@ -1,4 +1,4 @@
-# Module 5 - Skill Building Exercise No. 6
+# Module 7 - Skill Building Exercise No. 6
 
 ## The Value of Your Name - Take Two
 

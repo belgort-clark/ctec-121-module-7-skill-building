@@ -1,4 +1,4 @@
-# Module 5 - Skill Building Exercise No. 5 Solution
+# Module 7 - Skill Building Exercise No. 5 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 
@@ -18,5 +18,6 @@ def main():
 
     # display the sum
     print("The value is:", theSum)
+
 
 main()

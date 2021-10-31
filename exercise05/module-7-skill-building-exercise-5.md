@@ -1,4 +1,4 @@
-# Module 5 - Skill Building Exercise No. 5
+# Module 7 - Skill Building Exercise No. 5
 
 ## The Value of Your Name
 

@@ -1,4 +1,4 @@
-# Module 5 - Skill Building Exercise No. 2
+# Module 7 - Skill Building Exercise No. 2
 
 ## Grade Calculator
 

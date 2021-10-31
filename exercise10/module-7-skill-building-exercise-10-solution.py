@@ -1,4 +1,4 @@
-# Module 5 - Skill Building Exercise No. 10 Solution
+# Module 7 - Skill Building Exercise No. 10 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 
@@ -21,5 +21,6 @@ def main():
     print("Characters:", len(chars))
     print("Words:", len(words))
     print("Lines:", len(lines))
+
 
 main()

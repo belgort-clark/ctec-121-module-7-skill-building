@@ -1,4 +1,4 @@
-# Module 5 - Skill Building Exercise No. 4 Solution
+# Module 7 - Skill Building Exercise No. 4 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 
@@ -19,5 +19,6 @@ def main():
 
     # display the acroynum
     print("The acronym is", acronym)
+
 
 main()

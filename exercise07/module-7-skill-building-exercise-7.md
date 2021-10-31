@@ -1,4 +1,4 @@
-# Module 5 - Skill Building Exercise No. 7
+# Module 7 - Skill Building Exercise No. 7
 
 ## Caesar Cipher
 

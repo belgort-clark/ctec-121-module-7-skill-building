@@ -1,4 +1,4 @@
-# Module 5 - Skill Building Exercise No. 8 Solution
+# Module 7 - Skill Building Exercise No. 8 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 
@@ -23,5 +23,6 @@ def main():
     # display results
     # take theSum and divide by number of words
     print("Average word length", theSum / count)
+
 
 main()

@@ -1,4 +1,4 @@
-# Module 5 - Skill Building Exercise No. 3 Solution
+# Module 7 - Skill Building Exercise No. 3 Solution
 # Author: Bruce Elgort
 # Date: July 22, 2017
 
@@ -8,9 +8,10 @@ def main():
     # create a single string of all the letters
     grades = 60*"F"+10*"D"+10*"C"+10*"B"+11*"A"
     # uncomment the line below to see how this works
-    #print(grades)
+    # print(grades)
 
     # display result
     print("The grade is", grades[score])
+
 
 main()
